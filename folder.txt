@@ -6,8 +6,12 @@ bless you
 come to me 
 love you
 bye
+<<<<<<< HEAD
 =======
 way too blessed
 why are you fine
 lmao
 >>>>>>> copy
+=======
+i love you
+>>>>>>> john
