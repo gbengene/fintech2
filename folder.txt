@@ -1,7 +1,13 @@
 the lord is good
 all the time
+<<<<<<< HEAD
 
 bless you
 come to me 
 love you
 bye
+=======
+way too blessed
+why are you fine
+lmao
+>>>>>>> copy

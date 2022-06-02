@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 what is our name
 come back
+=======
+the lord is good
+where am i
+>>>>>>> copy
